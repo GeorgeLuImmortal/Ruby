@@ -1,0 +1,5 @@
+BillBillsAccount,Bill,125245,yes,AIB
+BeardCharityAccount,Bob,231344,no,Bank of Ireland
+IBMsAccount,IBM,200,no,Bank of Ireland
+MarysAccount,Mary,12945,yes,AIB
+AngelsAccount,Jane,1212354,no,AIB

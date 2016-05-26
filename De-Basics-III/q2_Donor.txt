@@ -1,0 +1,5 @@
+Bill,Goatstown Road,31,700,5000,yes
+Bob,Phoenix Park,42,600,8400,yes
+IBM,Dutchland Park,32,500,7000,yes
+Mary,Flyingman Road,55,400,8000,no
+Jane,Elephand Avenue,56,800,200000,yes
