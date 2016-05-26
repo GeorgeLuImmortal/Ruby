@@ -1,0 +1,37 @@
+Songname,Artist,Album,Time,Id
+# THIS FILE CONTAINS ALL SONGS IN iTunes,,,,
+# Aug 29 2014,,,,
+######################################################,,,,
+"# 			All SONGS",,,,
+#######################################################,,,,
+# (1) This file can be very sensitive to errors.,,,,
+# (2) note, that there is no space after a comma,,,
+# (3) all entries are strings except time which is a float,,,,
+# (4) we need to explicitly write code to ignore the commented lines,,,,
+#######################################################,,,,
+# Plastic Beach by Gorillaz,,,,
+Xhampagne,4WZ,Shy Girls,2.55,10
+Out of touch,4WZ,Shy Girls,3.54,11
+Renegade,4WZ,Shy Girls,3.17,12
+#,,,,
+# I Had the Blues and I Shook Them Loose by  Bombay Bicycle Club,,,,
+Immortals,fall out boys,Immortals,4.06,13
+#,,,,
+# Horehound by The Dead Weather,,,,
+Turn Around,Conor Maynard,Contrast,5.33,14
+Animal,Conor Maynard,Contrast,3.28,15
+Vegas Girl,Conor Maynard,Contrast,3.4,16
+#,,,,
+# Straight in No Kissing by  Dirty Epics,,,,
+Sing a song,Mika,Rain,3.19,17
+Rain,Mika,Rain,3.14,18
+Rain(remix),Mika,Rain,2.96,19
+#,,,,
+# Crystal Castles by  Crystal Castles                                       a,,,,
+Broken,Delay,Broken,3.06,20
+Broken(String&Vocal Mix),Delay,Broken,4.02,21
+#,,,,
+# Disco Crap  by  Multiple Artists,,,,
+Sienna,Gallant,Zebra EP,3.06,22
+Intro,Gallant,Zebra EP,3.06,23
+Forfeit,Gallant,Zebra EP,4.02,24
